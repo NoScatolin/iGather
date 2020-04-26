@@ -1,6 +1,1 @@
-   _____       _   _               
- _|  __ \     | | | |              
-(_) |  \/ __ _| |_| |__   ___ ____ 
-| | | __ / _` | __|  _ \ / _ \  __|
-| | | |_\ \ (_| |_| | | | |__/ |   
-|_|\____/\__,_|\__|_| |_|\___|_|   
+iGather is a script/tool i developed to make Reconaissance and Information Gathering more practical and easy.
