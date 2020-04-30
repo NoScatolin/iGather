@@ -50,7 +50,8 @@ for porta in portas:
 print ' '
 print '*Ex: https://alvo.com/*'
 url = raw_input('Insira a URL para o scan de diretorios: ')
-print '*Ex: /home/usuario/pasta/wordlist.txt*'
+print '*Ex: /wordlist/common.txt*'
+print '* Escolha a Wordlist compatível com sua necessidade! *'
 wordlist = raw_input('Insira o caminho para a Wordlist: ')
 print ' '
 print '[*] Varrendo diretorios...'
